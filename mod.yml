@@ -1,0 +1,505 @@
+title: Roxas_Mod_Randomiser_Fix
+originalAuthor: Tieulink, Napstio, Mikote, Soraiko, Gemini
+description: Fix some models not showing properly whith the Randomiser (needs Refixed and Roxas_Mod_3.0 to work, needs to be applied AFTER the randomiser and the seed)
+game: kh2
+specifications: 0
+dependencies: 
+assets:
+- name: obj\P_EX110.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX110.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX110_BTLF.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX110_BTLF.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\W_EX010.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_NM.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\W_EX010_NM.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_TR.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\W_EX010_TR.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_WI.mdlx
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\W_EX010_WI.mdlx
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-1.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-2.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-3.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110_BTLF.mdlx\-0.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-0.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110_BTLF.mdlx\-1.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-1.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110_BTLF.mdlx\-2.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-2.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX110_BTLF.mdlx\-3.DDS
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-3.DDS
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\W_EX010.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\W_EX010.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\W_EX010_NM.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\W_EX010_NM.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\W_EX010_TR.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\W_EX010_TR.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\W_EX010_WI.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: remastered\obj\W_EX010_WI.mdlx\-0.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+  
+- name: remastered/itempic/item-242.imd/-0.dds #Promise Charm
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-242.imd/-0.dds
+  
+- name: remastered/itempic/item-320.imd/-0.dds #Limit Form
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-320.imd/-0.dds
+  
+- name: remastered/itempic/item-239.imd/-0.dds #Picture
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-239.imd/-0.dds
+  
+- name: remastered/map/hb26.map/-88.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-88.dds
+  
+- name: remastered/map/hb26.map/-89.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-89.dds
+  
+- name: remastered/map/hb26.map/-96.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-96.dds
+  
+- name: remastered/map/hb26.map/-97.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-97.dds
+  
+- name: remastered/map/hb26.map/-114.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-114.dds
+  
+- name: remastered/map/hb26.map/-115.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-115.dds
+  
+- name: remastered/map/hb26.map/-122.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-122.dds
+  
+- name: remastered/map/hb26.map/-123.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-123.dds
