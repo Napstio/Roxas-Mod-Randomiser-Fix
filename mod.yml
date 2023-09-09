@@ -5,6 +5,30 @@ game: kh2
 specifications: 0
 dependencies: 
 assets:
+- name: obj\P_EX100_BTLF.mset
+  method: copy
+  platform: pc
+  package: kh2_first
+  multi: 
+  source:
+  - name: obj\P_EX100_BTLF.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: obj\P_EX110.mdlx
   method: copy
   platform: pc
