@@ -173,6 +173,41 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: remastered\field2d\fr\hb0field.2dd\FR_hb0field_2dd2.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\field2d\fr\hb0field.2dd\FR_hb0field_2dd2.png
+- name: remastered\field2d\gr\hb0field.2dd\GR_hb0field_2dd2.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\field2d\gr\hb0field.2dd\GR_hb0field_2dd2.png
+- name: remastered\field2d\it\hb0field.2dd\IT_hb0field_2dd2.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\field2d\it\hb0field.2dd\IT_hb0field_2dd2.png
+- name: remastered\field2d\sp\hb0field.2dd\SP_hb0field_2dd2.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\field2d\sp\hb0field.2dd\SP_hb0field_2dd2.png
+- name: remastered\field2d\us\hb0field.2dd\US_hb0field_2dd2.png
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\field2d\us\hb0field.2dd\US_hb0field_2dd2.png
 - name: remastered\obj\P_EX110.mdlx\-0.dds
   method: copy
   platform: pc
